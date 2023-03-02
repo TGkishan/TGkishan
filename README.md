@@ -63,5 +63,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TGkishan)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGkishan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGkishan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
